@@ -1,4 +1,4 @@
-# This repository is to make the process of restoring nuget packages inside docker container faster if you have slow or expensive internet connection.
+# This repository is to make the process of restoring nuget packages inside a development docker container faster if you have slow or expensive internet connection.
 When building an image it used to take me more than 40 minutes to restore the nuget packages, Now it only take about 3 to 10 minutes.
 
 The idea behind this is simple: 
